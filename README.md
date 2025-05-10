@@ -1,5 +1,5 @@
 # Depression Detection from Text, Image & Speech using Deep Learning Algorithm
-##Introduction
+## Introduction
 
 This project aims to develop a multimodal system that detects signs of depression using text, image, and speech inputs by leveraging deep learning techniques. The system integrates Natural Language Processing (NLP), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN) to analyze user data and predict depression levels.
 
